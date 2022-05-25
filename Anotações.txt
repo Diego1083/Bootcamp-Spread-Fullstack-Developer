@@ -1,0 +1,13 @@
+git clone
+
+cd Bootcamp-Spread-Fullstack-Developer
+
+git status 
+
+git add . ou git add -A 
+fica verde
+
+git commit -m "Incluido Anotações"
+
+git push origin maim
+
